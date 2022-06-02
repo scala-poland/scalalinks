@@ -1,0 +1,6 @@
+---
+title: Community
+---
+{% for source in site.sources | where "category", "Community" | sort: "title" %}
+{% include  %}
+{% endfor %}

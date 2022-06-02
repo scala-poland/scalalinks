@@ -1,0 +1,4 @@
+collections:
+  sources:
+    layout: source-description.html
+    output: true

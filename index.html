@@ -1,0 +1,6 @@
+---
+title: Scala Sources
+---
+{% for source in site.sources | sort: "category", "title" %}
+{% include source.html %}
+{% endfor %}
