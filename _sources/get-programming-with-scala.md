@@ -1,5 +1,6 @@
 ---
 title:     "Get Programming with Scala"
+authors:   ["Daniela Sfregola"]
 permalink: "/books/get-programming-with-scala/"
 link:      "https://www.manning.com/books/get-programming-with-scala"
 category:  "Books"

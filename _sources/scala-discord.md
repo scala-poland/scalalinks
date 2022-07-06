@@ -1,5 +1,6 @@
 ---
 title:     "Scala Discord"
+authors:   []
 permalink: "/community/scala-discord/"
 link:      "https://discord.com/invite/scala"
 category:  "Community"

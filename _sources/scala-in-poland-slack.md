@@ -1,5 +1,6 @@
 ---
 title:     "Scala in Poland Slack"
+authors:   []
 permalink: "/community/scala-in-poland-slack/"
 link:      "http://slackin.scala-poland.eu/"
 category:  "Community"

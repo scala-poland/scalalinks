@@ -1,5 +1,6 @@
 ---
 title:     "Functional Programming in Scala"
+authors:   ["Paul Chiusano", "Runar Bjarnason"]
 permalink: "/books/functional-programming-in-scala/"
 link:      "https://www.manning.com/books/functional-programming-in-scala"
 category:  "Books"

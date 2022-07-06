@@ -1,5 +1,6 @@
 ---
 title:     "Awesome Scala"
+authors:   ["Lauris Dzilums"]
 permalink: "/community/awesome-scala/"
 link:      "https://github.com/lauris/awesome-scala"
 category:  "Community"

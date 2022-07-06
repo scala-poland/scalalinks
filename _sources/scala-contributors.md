@@ -1,5 +1,6 @@
 ---
 title:     "Scala Contributors"
+authors:   []
 permalink: "/community/scala-contributors/"
 link:      "https://contributors.scala-lang.org/"
 category:  "Community"

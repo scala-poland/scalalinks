@@ -1,5 +1,6 @@
 ---
 title:     "Programming in Scala, Fourth Edition"
+authors:   ["Martin Odersky", "Lex Spoon", "Bill Venners"]
 permalink: "/books/programming-in-scala-4th-ed/"
 link:      "https://www.artima.com/shop/programming_in_scala_4ed"
 category:  "Books"

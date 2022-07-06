@@ -1,5 +1,6 @@
 ---
 title:     "Hands-on Scala Programming"
+authors:   ["Li Haoyi"]
 permalink: "/books/hands-on-scala-programming/"
 link:      "https://www.handsonscala.com/"
 category:  "Books"

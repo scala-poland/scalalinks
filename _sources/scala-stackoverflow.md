@@ -1,5 +1,6 @@
 ---
 title:     "Scala StackOverflow"
+authors:   []
 permalink: "/community/scala-stackoverflow/"
 link:      "https://www.scala-lang.org/community/"
 category:  "Community"

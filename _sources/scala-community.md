@@ -1,5 +1,6 @@
 ---
 title:     "Scala Community"
+authors:   []
 permalink: "/community/scala-community/"
 link:      "https://www.scala-lang.org/community/"
 category:  "Community"

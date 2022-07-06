@@ -1,5 +1,6 @@
 ---
 title:     "Programming Scala, 3rd edition"
+authors:   ["Dean Wampler"]
 permalink: "/books/programming-scala-3rd-edition/"
 link:      "https://oreil.ly/programming-scala-3"
 category:  "Books"

@@ -1,5 +1,6 @@
 ---
 title:     "Scala Users"
+authors:   []
 permalink: "/community/scala-users/"
 link:      "https://users.scala-lang.org/"
 category:  "Community"
