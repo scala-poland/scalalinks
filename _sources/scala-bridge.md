@@ -1,5 +1,5 @@
 ---
-title:     "https://scalabridge.org/"
+title:     "Scala Bridge"
 authors:   []
 permalink: "/training/scala-bridge/"
 link:      "https://scalabridge.org/"
