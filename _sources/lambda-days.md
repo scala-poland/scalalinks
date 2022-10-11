@@ -8,7 +8,7 @@ tags:      ["Conference", "Videos available"]
 related:   []
 ---
 
-TODO
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {% include playlist.html playlist_title='Videos from Lambda Days 2022' playlist_id='PLvL2NEhYV4Ztg01ZtwkIVTDhSHDTB7RTu' %}
 

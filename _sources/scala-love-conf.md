@@ -8,7 +8,7 @@ tags:      ["Conference", "Videos available"]
 related:   []
 ---
 
-TODO
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {% include playlist.html playlist_title='Videos from Scala Love 2022' playlist_id='5I1T-de4paw&list=PLBqWQH1MiwBTMk9HV-RNN7sQpB9ZPi_Az' %}
 

@@ -8,7 +8,7 @@ tags:      ["Conference", "Videos available"]
 related:   []
 ---
 
-TODO
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {% include playlist.html playlist_title='Videos from ScalaUA 2020' playlist_id='PL-RBtv_a80i6hw1bAHTT4chwbaoYTVlnV' %}
 

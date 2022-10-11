@@ -4,7 +4,7 @@ authors:   ["Li Haoyi"]
 permalink: "/books/hands-on-scala-programming/"
 link:      "https://www.handsonscala.com/"
 category:  "Books"
-tags:      "Paid"]
+tags:      ["Paid"]
 related:   []
 ---
 

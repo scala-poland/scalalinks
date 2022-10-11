@@ -4,7 +4,7 @@ authors:   ["Daniela Sfregola"]
 permalink: "/books/get-programming-with-scala/"
 link:      "https://www.manning.com/books/get-programming-with-scala"
 category:  "Books"
-tags:      "Paid", "Scala 2.13", "Scala 3"]
+tags:      ["Paid", "Scala 2.13", "Scala 3"]
 related:   []
 ---
 

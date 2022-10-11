@@ -4,7 +4,7 @@ authors:   ["Joshua D. Suereth"]
 permalink: "/books/scala-in-depth"
 link:      "https://www.manning.com/books/scala-in-depth"
 category:  "Books"
-tags:      "Paid"]
+tags:      ["Paid"]
 related:   []
 ---
 

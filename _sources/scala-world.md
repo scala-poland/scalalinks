@@ -8,7 +8,7 @@ tags:      ["Conference", "Videos available"]
 related:   []
 ---
 
-TODO
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {% include playlist.html playlist_title='Videos from Scala World Keynotes' playlist_id='PL9KXdMOfekvaFfBcmef5YO5MC4VNHVGvx' %}
 

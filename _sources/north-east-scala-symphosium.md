@@ -8,7 +8,7 @@ tags:      ["Conference", "Videos available"]
 related:   []
 ---
 
-TODO
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {% include playlist.html playlist_title='Videos from North-Easter Scala Symphosium 2016' playlist_id='PLndbWGuLoHeaRK1HqpsnvvBV4q9AWaQ8t' %}
 

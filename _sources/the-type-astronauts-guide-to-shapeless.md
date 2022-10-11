@@ -7,3 +7,5 @@ category:  "eBooks"
 tags:      ["Functional Programming", "Free"]
 related:   ["Essential Scala", "Creative Scala", "Essential Slick", "Essential Play", "Scala with Cats"]
 ---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

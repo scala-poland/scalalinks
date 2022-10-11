@@ -1,6 +1,8 @@
 ---
 title: Scala Sources
+layout: default
 ---
-{% for source in site.sources | sort: "category", "title" %}
+{% assign sources = site.sources | sort: "title" %}
+{% for source in sources %}
 {% include source.html %}
 {% endfor %}

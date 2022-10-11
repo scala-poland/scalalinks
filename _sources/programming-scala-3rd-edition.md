@@ -4,7 +4,7 @@ authors:   ["Dean Wampler"]
 permalink: "/books/programming-scala-3rd-edition/"
 link:      "https://oreil.ly/programming-scala-3"
 category:  "Books"
-tags:      "Paid", "Scala 3"]
+tags:      ["Paid", "Scala 3"]
 related:   []
 ---
 

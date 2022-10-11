@@ -8,7 +8,6 @@ tags:      ["Conference", "Videos available"]
 related:   []
 ---
 
-TODO
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {% include playlist.html playlist_title='All videos from LambdaConf' playlist_id='UUEtohQeDqMSebi2yvLMUItg' %}
-

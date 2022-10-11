@@ -1,4 +1,18 @@
 collections:
   sources:
-    layout: source-description.html
     output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "sources"
+    values:
+      layout: "source-description"
+
+exclude:
+  - "README.md"
+  - "LICENSE.md"
+  - "vendor"
+  - "Gemfile"
+  - "Gemfile.lock"

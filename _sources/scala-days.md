@@ -8,7 +8,7 @@ tags:      ["Conference", "Videos available"]
 related:   []
 ---
 
-TODO
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {% include playlist.html playlist_title='Videos from Scala Days Lausane 2019 Keynotes' playlist_id='PLLMLOC3WM2r460iOm_Hx1lk6NkZb8Pj6A' %}
 
