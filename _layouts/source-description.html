@@ -4,8 +4,10 @@
 <title>{{ page.title }}</title>
 {% if jekyll.environment == "production" %}
 <base href="{{ site.baseurl }}" />
-{% endif %}
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/common.css" />
+{% else %}
 <link rel="stylesheet" type="text/css" href="/assets/css/common.css" />
+{% endif %}
 </head>
 <body>
 <div id="main">
