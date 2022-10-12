@@ -1,10 +1,10 @@
 ---
-title:     "47deg Blog"
+title:     "ScalaLove Podcast"
 authors:   []
-permalink: "/blogs/47deg-blog/"
-link:      "https://www.47deg.com/blog/"
-category:  "Blogs"
-tags:      ["Company blog"]
+permalink: "/channels/scala-love/"
+link:      "https://scala.love/"
+category:  "Channels and podcasts"
+tags:      ["Podcast"]
 related:   []
 ---
 
