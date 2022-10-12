@@ -1,0 +1,53 @@
+---
+---
+body {
+  background-color: #eee;
+}
+
+#main {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+#nav-bar, #source, .scala-source {
+  background-color: #fff;
+  padding: 25px;
+}
+
+#sources {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+
+  .scala-source {
+    max-width: 400px;
+    min-width: 250px;
+    border: 1px solid black;
+    margin-top: 25px;
+    font-size: 75%;
+
+    > .source-more, > .source-category, > .source-tags {
+      line-height: 2;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  #sources {
+    flex-direction: column;
+  }
+}
+
+#source {
+  
+  > * {
+    margin-top: 25px;
+  }
+}
+
+.category, .tag {
+  border: 1px solid #eee;
+  border-radius: 5px;
+  padding: 3px;
+  margin: 5px;
+}

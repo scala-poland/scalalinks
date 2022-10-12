@@ -1,3 +1,5 @@
+baseurl: https://mateuszkubuszok.github.io/scalalinks/
+
 collections:
   sources:
     output: true

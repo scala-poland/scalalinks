@@ -2,18 +2,31 @@
 <head>
 <meta charset="UTF-8">
 <title>{{ page.title }}</title>
+{% if jekyll.environment == "production" %}
+<base href="{{ site.baseurl }}" />
+{% endif %}
+<link rel="stylesheet" type="text/css" href="/assets/css/common.css" />
 </head>
 <body>
+<div id="main">
+<div id="nav-bar">
 <h1>{{ page.title }}</h1>
-<p>Category: {{ page.category }}</p>
-<p>Tags: {% for tag in page.tags %}{{ tag }}{% endfor %}</p>
-<p>URL: <a href="{{ page.link }}">{{ page.link }}</a></p>
-{{ content }}
-<p>Related:
-{% for related in site.related %}
-{% assign rel = site.sources | where: "title", related %}
-{% for show in rel %}{{ show }}{% endfor %}
-{% endfor %}
-</p>
+<a href="/">Go back</a>
+</div>
+<div id="source">
+  <div class="source-url"><b><a href="{{ page.link }}">{{ page.link }}</a></b></div>
+  <div class="source-category"><b>Category</b>: <span class="category">{{ page.category }}</span></div>
+  <div class="source-tags"><b>Tags</b>: {% for tag in page.tags %}<span class="tag">{{ tag }}</span>{% endfor %}</div>
+  <div class="source-description">{{ content }}</div>
+  {% if site.related %}
+  <div class="source-related"><b>Related</b>:
+  {% for related in site.related %}
+  {% assign rel = site.sources | where: "title", related %}
+  {% for show in rel %}{{ show }}{% endfor %}
+  {% endfor %}
+  </div>
+  {% endif %}
+</div>
+</div>
 </body>
 </html>

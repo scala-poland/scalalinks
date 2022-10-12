@@ -2,9 +2,18 @@
 <head>
 <meta charset="UTF-8">
 <title>{{ page.title }}</title>
-</head>
+{% if jekyll.environment == "production" %}
+<base href="{{ site.baseurl }}" />
+{% endif %}
+<link rel="stylesheet" type="text/css" href="/assets/css/common.css" />
 <body>
+<div id="main">
+<div id="nav-bar">
 <h1>{{ page.title }}</h1>
+</div>
+<div id="sources">
 {{ content }}
+</div>
+</div>
 </body>
 </html>
